@@ -1,8 +1,5 @@
 package com.CloneMethod;
 
-
-
-
 class Complaint {
     private String complaint;
     private Customer customer;
