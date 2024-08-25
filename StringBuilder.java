@@ -1,5 +1,5 @@
 /*
-String Builder
+String Builder 
 String Builder
 StringBuilder class is used to create mutable (modifiable) string. StringBuilders are used when the String has to be modified constantly. We recently observed that the availability of items for the stall is hard to know. So we are gonna program that requirement here. Get the availability of the items from the vendors. They are providing the list separated by "$". So use string builder and display the details of the items along with their availability. The list provided by vendors only have the available numbers of the item. We don't want that, so just display whether the item is available or not.
 
